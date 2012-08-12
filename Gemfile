@@ -29,3 +29,6 @@ end
 group :production do
   gem 'pg', '0.12.2'
 end
+
+# nokigiri requirements
+# sudo apt-get install libxslt-dev libxml2-dev
